@@ -1,5 +1,5 @@
 #generate a sample code for python
 def greet(name):
-    return f"Hello, {name}!"
+    return f"Hello Sir, {name}!"
 if __name__ == "__main__":
     print(greet("World"))
